@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of xypp/flarum-month-date-fix.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/flarum-month-date-fix) or the [upstream repository](https://github.com/zxy19/flarum-month-date-fix).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/xypp-flarum-month-date-fix/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/xypp-flarum-month-date-fix/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-08-28 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-month-date-fix/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/xypp-flarum-month-date-fix.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-flarum-month-date-fix.json)
 
